@@ -4,8 +4,9 @@ body {
 
 section {
     padding-top: 130px;
+    padding-left: 2.5%;
     margin-bottom: 2rem;
-    height: 100vh;
+    height: 70vh;
     /* Increase the height of each section */
 }
 
