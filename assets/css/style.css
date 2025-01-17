@@ -29,9 +29,6 @@ h3 {
     font-family: var(--secondary-font);
 }
 
-h1, h2 {
-    text-transform: uppercase;
-}
 
 h5 {
     color: var(--highlight-color);
@@ -85,12 +82,25 @@ section {
 /* Nav bar */
 
 
+nav {
+    box-shadow: 0 4px 2px -2px var(--primary-color);
+}
+
 nav a:hover {
     font-weight: bold;
 }
 
 nav a.active {
     font-weight: bold;
+}
+
+#navbar .logo {
+    width: 50px;
+    height: 50px;
+}
+
+.nav-item {
+    font-family: var(--secondary-font);
 }
 
 
