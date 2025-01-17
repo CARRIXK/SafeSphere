@@ -110,3 +110,15 @@ nav a.active {
     z-index: 4;
   }
 
+
+
+  /* Responding to concerns */
+
+
+
+.container h2 {
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+
