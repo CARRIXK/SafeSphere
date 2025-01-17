@@ -487,8 +487,8 @@ Site Owner’s Goal: The site owner wants to create a straightforward webpage th
         </div>
       </div>
     </div>
-    <div class="text-center p-3 bg-light text-dark">
-      © 2023 Safe Sphere
+    <div id="footer-year" class="text-center p-3">
+      © <span id="current-year"></span> Safe Sphere
     </div>
   </footer>
 
@@ -507,6 +507,7 @@ Site Owner’s Goal: The site owner wants to create a straightforward webpage th
   <!-- Custom JS -->
   <script>
 
+    // Nav bar Script 
     document.addEventListener('DOMContentLoaded', function () {
       var navLinks = document.querySelectorAll('.nav-link');
       var sections = document.querySelectorAll('section');
@@ -528,6 +529,9 @@ Site Owner’s Goal: The site owner wants to create a straightforward webpage th
         });
       });
     });
+
+    // Footer year script
+    document.getElementById('current-year').textContent = new Date().getFullYear();
   </script>
 
 </body>
