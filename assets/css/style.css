@@ -104,13 +104,17 @@ nav {
     box-shadow: 0 4px 2px -2px var(--primary-color);
 }
 
+
+
 nav a:hover {
     font-weight: bold;
 }
 
+
+
 nav a.active {
-    font-weight: bold;
-}
+    border-bottom: 2px solid var(--highlight-color);
+}  
 
 #navbar .logo {
     width: 50px;
