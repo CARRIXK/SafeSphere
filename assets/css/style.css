@@ -68,6 +68,19 @@ section {
     color: white;
 }
 
+.custom-button-outline  {
+    border: 2px solid var(--highlight-color);
+    background-color: none;
+    color: white;
+}
+
+.custom-button-outline:hover {
+    border: 2px solid var(--highlight-color);
+    background-color: var(--highlight-color);
+    color: white;
+}
+
+
 
 
 /* Grid visualising CSS for testing */
@@ -144,24 +157,78 @@ p,
 
 /* Key principles */
 
-.accordion-button:not(.collapsed) {
-
-    background-color: var(--primary-color);
-    color: white;
-} 
-
-.accordion-button {
-    font-size: 1.5rem;
-    font-style: bold ;
-}
-
-.accordion-button:focus { 
-    box-shadow: none; 
-    background-color: white; 
-    color: black;
-}
-
 .accordion {
-    background-color: var(--primary-color);
+    --bs-accordion-color: white;
+    --bs-accordion-btn-bg: var(--primary-color);
+    --bs-accordion-btn-color: white;
+    --bs-accordion-active-bg: var(--primary-color);
+    --bs-accordion-active-color: white;
+    --bs-accordion-btn-focus-box-shadow: none;
+    --bs-accordion-bg:  var(--primary-color);
+    
+    
+    
 }
+
+.accordion-button.collapsed::before {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+  }
+
+  
+  .accordion-button.collapsed::after {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+  }
+
+
+
+
+/* Footer */
+
+#footer h2 {
+    border: none;
+}
+
+
+#footer .btn:hover {
+    border: none;
+    background-color: var(--primary-color);
+    
+}
+
+/* Media Queries */
+
+/* Medium devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) {
+    /* make all service cards the same height for consistency */
+  
+ 
+}
+
+/* Large devices (small laptops, 992px and up) */
+@media screen and (min-width: 992px) {
+    /* make all service cards the same height for consistency */
+
+ 
+}
+
+/* Extra Large devices (large laptops, 1200px and up) */
+@media screen and (min-width: 1200px) {
+    /* make all service cards the same height for consistency */
+  
+}
+
+/* Extra extra Large devices (large laptops, 1400px and up) */
+@media screen and (min-width: 1400px) {
+    /* make all service cards the same height for consistency */
+ 
+
+}
+
+
+
+
+
+
+
+
 
