@@ -9,11 +9,11 @@
     --secondary-font: "Roboto Flex", "cursive";
     --primary-color: #191825;
     /* Navy blue */
-    --secondary-color: #0653aa;
+    --secondary-color: white;
     /* light grey */
-    --highlight-color: #198cfd;
+    --highlight-color: #e489b5;
     /* highlight color */
-    --highlight-color-light: #F5C6CE;
+    --highlight-color-light: #d99dd0;
     /* light teal */
 }
 
@@ -35,9 +35,6 @@ h3 {
 }
 
 
-h5 {
-    color: var(--highlight-color);
-}
 
 
 
@@ -48,7 +45,8 @@ section {
 
 
 .container h2 {
-    border: 2px solid white;
+    border: 2px solid var(--secondary-color);
+    color: var(--secondary-color);
     border-radius: 5px;
 }
 
@@ -57,27 +55,27 @@ section {
 /* Buttons */
 
 .custom-button-filled {
-    border: 2px solid var(--highlight-color);
-    background-color: var(--highlight-color);
-    color: white;
+    border: 2px solid var(--primary-color);
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
 }
 
 .custom-button-filled:hover {
     border: 2px solid var(--highlight-color);
-    background-color: var(--secondary-color);
-    color: white;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
 }
 
 .custom-button-outline  {
-    border: 2px solid var(--highlight-color);
+    border: 2px solid var(--highlight-color-light);
     background-color: none;
     color: white;
 }
 
 .custom-button-outline:hover {
-    border: 2px solid var(--highlight-color);
-    background-color: var(--highlight-color);
-    color: white;
+    border: 2px solid var(--highlight-color-light );
+    background-color: var(--highlight-color-light);
+    color: var(--primary-color);
 }
 
 
@@ -127,6 +125,7 @@ nav a.active {
 /* Hero Section Background Image */
 #hero {
     background: url('../images/hero.jpg') no-repeat center center;
+
     background-size: cover;
     background-position: 50% 70%;
     min-height: 200px;
@@ -151,7 +150,7 @@ img,
 p,
 .custom-button-filled {
     position: relative;
-    z-index: 4;
+    z-index: 1;
 }
 
 
@@ -180,18 +179,49 @@ p,
   }
 
 
+/* Responding to concerns */
+
+#responding-to-concerns h5{
+    color: white;
+}
+
+
+
+/* Contact */
+
+
+#contact .submit {
+    color: var(--primary-color);
+    background-color: var(--highlight-color-light);
+}
+
+#contact .submit:hover {
+    border-color: var(--highlight-color);
+    color: var(--secondary-color);
+    background-color: var(--primary-color);
+}
 
 
 /* Footer */
 
+#footer {
+    border-top: 1.5px solid var(--highlight-color);
+    background-color: var(--highlight-color-light);
+    box-shadow: 0 -10px 15px rgba(0, 0, 0, 0.5); /* Shadow effect above the footer */
+}
+
+
+
 #footer h2 {
     border: none;
+    color: var(--primary-color);
 }
 
 
 #footer .btn:hover {
     border: none;
     background-color: var(--primary-color);
+    color: var(--highlight-color-light);
     
 }
 
@@ -200,7 +230,9 @@ p,
 /* Medium devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) {
     /* make all service cards the same height for consistency */
-  
+  #resources p {
+    min-height: 75px;
+  }
  
 }
 
