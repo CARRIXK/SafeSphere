@@ -184,9 +184,9 @@ Manual tests were conducted to ensure the functionality and responsiveness of th
 
 ## Validator Testing
 
-** HTML : No errors were returned when passing through the official [W3C Markup validator](https://validator.w3.org/#validate_by_input+with_options)
+* **HTML **: No errors were returned when passing through the official [W3C Markup validator](https://validator.w3.org/#validate_by_input+with_options)
 
-** CSS: No errors were returned when passing through the official [W3C CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+* **CSS** : No errors were returned when passing through the official [W3C CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
  
 
 # Deployment
