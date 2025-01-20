@@ -12,6 +12,10 @@ For the site owner, the objective is to create a simple yet effective platform u
 
 - Nav bar
 
+
+![image](https://github.com/user-attachments/assets/c3b5855a-94df-4289-8839-a5f8ac902936)
+
+
 ![image](https://github.com/user-attachments/assets/9104e4dc-f087-432e-8605-5a526a789ee4)
 
 
