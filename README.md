@@ -120,11 +120,10 @@ The section features two cards:
 Both cards are interactive, with hover effects and clickable elements, such as the button on the NHS resources card. The cards are designed using boostrap ensuring they are visually engaging and responsive on various devices.
 
 
-- Contact Us 
-
-![image](https://github.com/user-attachments/assets/f74116f4-38f1-415d-a9dd-0aa1e46a4da6)
 
 ## Contact Us
+
+![image](https://github.com/user-attachments/assets/f74116f4-38f1-415d-a9dd-0aa1e46a4da6)
 
 ### Description:
 This section allows users to easily get in touch with the company through a contact form or by using the provided call and email options. It provides a convenient way for users to ask questions or reach out for support.
@@ -149,26 +148,34 @@ The footer includes:
 
 
 
-## UX/UI
+# UX/UI
 
-### Site Goals
+## Site Goals
 The primary goal of the site is to provide clear and accessible information about safeguarding practices. It is designed to help users recognize and respond to safeguarding concerns effectively. The site owner aims to ensure the content is well-structured and easy to navigate, delivering an intuitive user experience.
 
 
-### Design Choices
+## Design Choices
 
 - **Color Scheme:** A neutral and professional color palette to ensure readability and convey a sense of trust.
 - **Typography:** Simple and legible fonts to prioritize clarity.
 - **Layout:** A clean and minimalistic design with a focus on structured content and intuitive navigation.
 - **Responsiveness:** Ensuring the site is mobile-friendly and performs well on all screen sizes.
 
-### Wireframes
+## Wireframes
 
 Wireframes were created to outline the structure and layout of the site before development.
 
-![alt text](image-9.png)
+### Desktop wireframe
 
-## Testing
+[Safe Sphere desktop and mobile wireframes.pdf](https://github.com/user-attachments/files/18476858/Safe.Sphere.desktop.and.mobile.wireframes.pdf)
+
+
+### Mobile Wireframe
+
+![image](https://github.com/user-attachments/assets/ff360d3c-1686-4273-bab9-118eb83e5c65)
+
+
+# Testing
 
 - **Lighthouse automated testing:** 
 
@@ -179,7 +186,7 @@ The results from the lighthouse test show more work is needed in order to follow
 - **Manual Testing:** Specific scenarios tested manually.
 - **Valifdation Tools:** The HTML and CSS have both been run through the WC3 validation services and both contain valid code with no errors. 
 
-## Deployment
+# Deployment
 
 The site was deployed using GitHub Pages. Below are the steps taken to deploy the project:
 
