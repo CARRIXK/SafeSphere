@@ -180,10 +180,15 @@ The results from the lighthouse test show more work is needed in order to follow
 
 ## Manual Testing: 
 
-Manual tests were conducted to ensure the functionality and responsiveness of the website. Each link was manually tested to confirm that it redirected to the correct destination. All sections were checked for responsiveness across different devices (desktop, tablet, and mobile) to ensure that the layout adjusted properly and remained user-friendly. Additionally, hover effects were tested by interacting with various elements like buttons and navigation items to verify that the visual changes (such as bold text or color shifts) worked consistently. These tests helped ensure a seamless user experience and proper functionality across the site.
+Manual tests were conducted to ensure the functionality and responsiveness of the website. Each link was manually tested to confirm that it redirected to the correct destination. All sections were checked for responsiveness across different devices (desktop, tablet, and mobile) to ensure that the layout adjusted properly and remained user-friendly. Additionally, hover effects were tested by interacting with various elements like buttons and navigation items to verify that the visual changes (bold text) worked consistently. These tests helped ensure a seamless user experience and proper functionality across the site.
 
-## Valifd
-ation : The HTML and CSS have both been run through the WC3 validation services to ensure they contain valid code. 
+## Validator Testing
+
+** HTML : No errors were returned when passing through the official [W3C Markup validator](https://validator.w3.org/#validate_by_input+with_options)
+
+** CSS: No errors were returned when passing through the official [W3C CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+ 
+
 # Deployment
 
 The site was deployed using GitHub Pages. Below are the steps taken to deploy the project:
@@ -197,10 +202,10 @@ The site was deployed using GitHub Pages. Below are the steps taken to deploy th
    - Go to the repository settings.
    - Navigate to the "Pages" section.
    - Under "Source," select the branch (e.g., `main`) and folder (e.g., `/root`) where the site files are located.
-   - Save the settings. GitHub will automatically build and deploy the site.
+   - Save the settings. GitHub then automatically built and deployed the site.
 
 3. **Hosting Platform:**
-   - The site is hosted on GitHub Pages and is accessible via a public URL provided by GitHub (`https://CARRIXK.github.io/safe-sphere/`).
+   - The site is hosted on GitHub Pages and is accessible via a public URL provided by GitHub https://CARRIXK.github.io/safe-sphere/
 
 ## Citation of All Sources
 
