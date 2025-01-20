@@ -184,7 +184,7 @@ Manual tests were conducted to ensure the functionality and responsiveness of th
 
 ## Validator Testing
 
-* **HTML ** : No errors were returned when passing through the official [W3C Markup validator](https://validator.w3.org/#validate_by_input+with_options)
+* **HTML** : No errors were returned when passing through the official [W3C Markup validator](https://validator.w3.org/#validate_by_input+with_options)
 
 * **CSS** : No errors were returned when passing through the official [W3C CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
  
@@ -219,7 +219,7 @@ The site was deployed using GitHub Pages. Below are the steps taken to deploy th
 
 ### Media
 
-* The shield icon used in the hero section was taken from: [GitHub Copilot]( https://www.stockvault.net).
+* The shield icon used in the hero section was taken from: [Stock Vault]( https://www.stockvault.net).
 * The hero image was generated with the help of [GitHub Copilot](https://copilot.github.com).
 
 
