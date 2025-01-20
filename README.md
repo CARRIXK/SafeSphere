@@ -22,37 +22,45 @@ For the site owner, the objective is to create a simple yet effective platform u
 
 - Hero Section
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/604238d3-39cd-49c1-ace4-ef94d37ae33e)
+
 
 
 - What is Safe Guarding
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/89a7d95a-9bb0-4998-83fd-dd741b5f771d)
+
 
 - Key Principles of Safe Guarding
 
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/0a9e1240-a9c8-401d-b529-769ac88d5791)
+
 
 - How to Recognise Safeguarding Concerns
 
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/2d03d553-9905-40bc-b97c-b66245322141)
+
 
 - Responding to Concerns
 
-![alt text](image-5.png)
+![image](https://github.com/user-attachments/assets/9e9fc14e-8417-4322-8490-f7dd436825ad)
+
 
 - Safe Guarding Resources
 
-![alt text](image-6.png)
+![image](https://github.com/user-attachments/assets/3dfe54da-8ba6-499b-8350-ea0e7326858f)
+
 
 
 - Contact Us 
 
-![alt text](image-7.png)
+![image](https://github.com/user-attachments/assets/f74116f4-38f1-415d-a9dd-0aa1e46a4da6)
+
 
 - Footer 
 
-![alt text](image-8.png)
+![image](https://github.com/user-attachments/assets/30a23981-66a9-463c-ac29-d0c53d17d061)
+
 
 
 ## UX/UI
