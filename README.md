@@ -1,4 +1,4 @@
-# Safe-Sphere Read me
+# Safe-Sphere
 
 
 # Project Overview
@@ -7,6 +7,7 @@ The project aims to provide a user-friendly webpage that delivers clear and conc
 
 For the site owner, the objective is to create a simple yet effective platform using basic HTML and CSS. The layout emphasizes clarity and intuitiveness, ensuring that users can quickly find and comprehend the key principles of safeguarding.
 
+View site live [here](https://carrixk.github.io/safe-sphere/)
 
 # List of Features
 
