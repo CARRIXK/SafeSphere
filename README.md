@@ -184,7 +184,7 @@ Manual tests were conducted to ensure the functionality and responsiveness of th
 
 ## Validator Testing
 
-* **HTML **: No errors were returned when passing through the official [W3C Markup validator](https://validator.w3.org/#validate_by_input+with_options)
+* **HTML ** : No errors were returned when passing through the official [W3C Markup validator](https://validator.w3.org/#validate_by_input+with_options)
 
 * **CSS** : No errors were returned when passing through the official [W3C CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
  
@@ -205,7 +205,7 @@ The site was deployed using GitHub Pages. Below are the steps taken to deploy th
    - Save the settings. GitHub then automatically built and deployed the site.
 
 3. **Hosting Platform:**
-   - The site is hosted on GitHub Pages and is accessible via a public URL provided by GitHub https://CARRIXK.github.io/safe-sphere/
+   - The site is hosted on GitHub Pages and is accessible via a public URL provided by GitHub : https://CARRIXK.github.io/safe-sphere/
 
 ## Credits
 
@@ -214,10 +214,12 @@ The site was deployed using GitHub Pages. Below are the steps taken to deploy th
 * Text content generated using [GitHub Copilot](https://copilot.github.com)
 * Fonts implemented from  [Google Fonts](https://fonts.google.com/) 
 * Icons were used from  [Font Awesome](https://fontawesome.com/kits/1110908b34/setup?created=yes&hosting=hosted)
+* This project uses [Bootstrap](https://getbootstrap.com) for styling and layout.
+  
 
 ### Media
 
-* The shield icon used in the hero section was taken from: https://www.stockvault.net
+* The shield icon used in the hero section was taken from: [GitHub Copilot]( https://www.stockvault.net).
 * The hero image was generated with the help of [GitHub Copilot](https://copilot.github.com).
 
 
@@ -225,7 +227,7 @@ The site was deployed using GitHub Pages. Below are the steps taken to deploy th
 
 - Ensure lighthouse scores for accessibility are 100
 - Ensure lighthouse scores for best practices are 100
-- Ensure lighthouse scores for perfromance are near 100
+- Ensure lighthouse scores for perfromance are nearer to 100
 
 
 ## Known Bugs
