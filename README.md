@@ -10,41 +10,41 @@ For the site owner, the objective is to create a simple yet effective platform u
 
 ## List of Features
 
-- Nav bar: Nav bar allowing user to access all points of the site. 
+- Nav bar
 
 ![alt text](image.png)
 
-- Hero Section: Brief description.
+- Hero Section
 
 ![alt text](image-1.png)
 
 
-- What is Safe Guarding: description
+- What is Safe Guarding
 
 ![alt text](image-2.png)
 
-- Key Principles of Safe Guarding: Brief description.
+- Key Principles of Safe Guarding
 
 ![alt text](image-3.png)
 
-- How to Recognise Safeguarding Concerns: Brief description.
+- How to Recognise Safeguarding Concerns
 
 ![alt text](image-4.png)
 
-- Responding to Concerns: 
+- Responding to Concerns
 
 ![alt text](image-5.png)
 
-- Safe Guarding Resources: 
+- Safe Guarding Resources
 
 ![alt text](image-6.png)
 
 
-- Contact Us: 
+- Contact Us 
 
 ![alt text](image-7.png)
 
-- Footer:  
+- Footer 
 
 ![alt text](image-8.png)
 
