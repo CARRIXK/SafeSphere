@@ -165,27 +165,25 @@ The primary goal of the site is to provide clear and accessible information abou
 
 Wireframes were created to outline the structure and layout of the site before development.
 
-### Desktop wireframe
-
-[Safe Sphere desktop and mobile wireframes.pdf](https://github.com/user-attachments/files/18476858/Safe.Sphere.desktop.and.mobile.wireframes.pdf)
+[Safe Sphere desktop and mobile wireframes.pdf](https://github.com/user-attachments/files/18476888/Safe.Sphere.desktop.and.mobile.wireframes.pdf)
 
 
-### Mobile Wireframe
 
-![image](https://github.com/user-attachments/assets/ff360d3c-1686-4273-bab9-118eb83e5c65)
+# Testing/validation
 
-
-# Testing
-
-- **Lighthouse automated testing:** 
+## Lighthouse automated testing:** 
 
 The results from the lighthouse test show more work is needed in order to follow best practices, improve performance and make more accessible. 
 
-![alt text](image-10.png)
+![image-10](https://github.com/user-attachments/assets/ce86c7eb-98da-452a-af88-bec976a63561)
 
-- **Manual Testing:** Specific scenarios tested manually.
-- **Valifdation Tools:** The HTML and CSS have both been run through the WC3 validation services and both contain valid code with no errors. 
 
+## Manual Testing: 
+
+Manual tests were conducted to ensure the functionality and responsiveness of the website. Each link was manually tested to confirm that it redirected to the correct destination. All sections were checked for responsiveness across different devices (desktop, tablet, and mobile) to ensure that the layout adjusted properly and remained user-friendly. Additionally, hover effects were tested by interacting with various elements like buttons and navigation items to verify that the visual changes (such as bold text or color shifts) worked consistently. These tests helped ensure a seamless user experience and proper functionality across the site.
+
+## Valifd
+ation : The HTML and CSS have both been run through the WC3 validation services to ensure they contain valid code. 
 # Deployment
 
 The site was deployed using GitHub Pages. Below are the steps taken to deploy the project:
