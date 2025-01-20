@@ -207,11 +207,18 @@ The site was deployed using GitHub Pages. Below are the steps taken to deploy th
 3. **Hosting Platform:**
    - The site is hosted on GitHub Pages and is accessible via a public URL provided by GitHub https://CARRIXK.github.io/safe-sphere/
 
-## Citation of All Sources
+## Credits
 
-### Images
+### Content
 
-The image used in the hero section was taken from: https://www.stockvault.net
+* Text content generated using [GitHub Copilot](https://copilot.github.com)
+* Fonts implemented from  [Google Fonts](https://fonts.google.com/) 
+* Icons were used from  [Font Awesome](https://fontawesome.com/kits/1110908b34/setup?created=yes&hosting=hosted)
+
+### Media
+
+* The shield icon used in the hero section was taken from: https://www.stockvault.net
+* The hero image was generated with the help of [GitHub Copilot](https://copilot.github.com).
 
 
 ## Future Features
@@ -223,6 +230,6 @@ The image used in the hero section was taken from: https://www.stockvault.net
 
 ## Known Bugs
 
-- **Bug 1:** Links on navbar are black before turning pink when hovered over. This could be the custom javascript interfering with the link styling
+- **Bug 1:** When links on navbar are selected, the border bottom turns black before turning the intended color of pink. This could be the custom javascript interfering with the link styling. 
 
 
