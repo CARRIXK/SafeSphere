@@ -12,7 +12,9 @@ For the site owner, the objective is to create a simple yet effective platform u
 
 - Nav bar
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/9104e4dc-f087-432e-8605-5a526a789ee4)
+
+
 
 - Hero Section
 
