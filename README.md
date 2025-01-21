@@ -174,9 +174,10 @@ Wireframes were created to outline the structure and layout of the site before d
 
 ## Lighthouse automated testing:** 
 
-The results from the lighthouse test show more work is needed in order to follow best practices, improve performance and make more accessible. 
+I used Google Lighthouse to test the site's performance, accessibility, and SEO. By running audits for both mobile and desktop views, I identified key performance metrics like Largest Contentful Paint (LCP) and First Contentful Paint (FCP) and made necessaery code changes to improve scores. This ensured a faster, more accessible, and SEO-friendly site for users.
 
-![image-10](https://github.com/user-attachments/assets/ce86c7eb-98da-452a-af88-bec976a63561)
+![image](https://github.com/user-attachments/assets/b71bc91e-240a-40d6-be17-7d004bc825fc)
+
 
 
 ## Manual Testing: 
